@@ -1,0 +1,27 @@
+.naslov{
+    font-size: x-large; font-family: cursive;
+    background-color: darkviolet;
+    padding: 2px;
+    margin: 2px;
+    border: 1px solid darkblue;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+.logo{ 
+    background-position: top;
+}
+.tekst{
+    color: beige;
+}
+.linkovi{
+    background-color: aqua;
+    font-family: cursive;
+    font-size: x-large;
+    display: inline-block ;
+    margin: 2px;
+}
+.linkovi:hover{
+    background-color: red;
+    font-size: 2em;
+}
