@@ -48,3 +48,34 @@
 .test{
     font-size: x-large;
 }
+.tekst3{
+    font-family: Comic Sans MS;
+    font-size: x-large;
+    border: 5px solid lightgrey;
+    padding: 2px;
+    display: inline-block;
+    margin: 2px;
+    background-color: lightgreen;
+}
+.obrasci{
+    margin: 2px;
+    border: 2px;
+}
+.link_na_obrasce{
+    padding: 2px;
+    background-color: beige;
+    font-size: large;  
+    margin: 2px;
+    border: 2px;
+    display: inline-block;
+    
+}
+.link_na_obrasce:hover{
+    font-size: 1.5em;
+    background-color: salmon;
+}
+.blockquote{
+    font-size: x-large;
+    color: goldenrod;
+    
+}
